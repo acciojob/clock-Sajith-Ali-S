@@ -13,6 +13,4 @@
 			// Update the timer display
 			timerDisplay.innerHTML = currentDate.toLocaleString();
 		}, 1000);
-	timer.InnerHTML = current_date.toLocaleString();
-},1000)
-
+	
